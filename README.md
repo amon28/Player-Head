@@ -5,5 +5,6 @@ Gets player head when you kill someone.
 ●1.Download the plugin.
 ●2.Go to Pocketmine folder.
 ●3.Open Plugins folder.
-●4.Copy the folder.
-●5.Enjoy!
+●4.Copy the plugin folder.
+●5.Paste the Plugin folder in the plugins.
+●6.Enjoy!
